@@ -1,6 +1,6 @@
 # island-images-crb
 
-A cult classic starring Chammorro star Roland Quitugua.
+A cult classic starring Chamorro screen star Roland Quitugua.
 
 Downloaded from YouTube using:
 ```bash
