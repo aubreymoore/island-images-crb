@@ -7,4 +7,4 @@ Downloaded from YouTube using:
 youtube-dl -f 18 https://youtu.be/CLnnGSYXSP0
 ```
 
-To download this video in **MP4** format, [click here](https://github.com/aubreymoore/island-images-crb/raw/master/island-images-crb.mp4).
+[Click here](https://github.com/aubreymoore/island-images-crb/raw/master/island-images-crb.mp4) to download this video in **MP4** format (55.3 MB).
